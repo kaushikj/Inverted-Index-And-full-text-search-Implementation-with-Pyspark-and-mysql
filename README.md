@@ -8,3 +8,7 @@ The entire project is divided into 6 steps
 -Step 3 - Lookup Inverted Index and get metrics  
 -Step 4 - Calculate Cosine Similarity 
 -Step 5 - Document Ranking
+
+
+#Steps to run the code
+unzip "input_docs.zip" and run the .ipnb
